@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/indralw/Desktop/PairGenerator/pair-generator/src/main/scala/Main.scala:12:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef getAllPairs(people: List[String], peopleInmutable: List[String], pairs: List[(String,String)]): List[(String,String)] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/indralw/Desktop/PairGenerator/pair-generator/src/main/scala/Main.scala:19:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef findPair(person:String, people: List[String], pairs: List[(String,String)]): List[(String,String)] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/indralw/Desktop/PairGenerator/pair-generator/src/main/scala/Main.scala:30:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef printPairs(pairs: List[(String,String)]) {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/indralw/Desktop/PairGenerator/pair-generator/src/main/scala/Main.scala:36:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef randomizePairs(pairs: List[(String,String)]) : List[(String,String)] = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
